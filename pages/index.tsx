@@ -32,6 +32,8 @@ export default function Home() {
 					/>
 				</div>
 			</div>
+
+      {/* {Posts} */}
 		</div>
 	);
 }
